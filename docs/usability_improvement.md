@@ -59,16 +59,6 @@ Leveraging GitHub Issues, Discussions, and Pull Requests for seamless collaborat
 
 ---
 
-## **Current Issues and Suggestions**  
-
-| ID    | Description                             | Status      | Assignee   | Target Date  |
-|-------|-----------------------------------------|-------------|------------|--------------|
-| #101  | Add metadata tags to tutorials          | In Progress | @username  | 2024-12-05   |
-| #102  | Implement accessibility audit checklist | Open        | Unassigned | TBD          |
-| #103  | Set up a feedback template              | Completed   | @username  | 2024-11-20   |
-
----
-
 ## **How You Can Help**  
 - Test the platform and provide feedback on your experience.  
 - Suggest new ideas for improving usability.  
