@@ -66,7 +66,3 @@ Our community thrives on respect, inclusivity, and collaboration. Please review 
 If you have questions or need assistance, feel free to open an issue or use the Discussions feature.  
 
 Together, we can build something impactful. Let's collaborate and innovate! 🚀  
-
----
-
-Does this align with your vision? Let me know if you'd like changes or additions!
