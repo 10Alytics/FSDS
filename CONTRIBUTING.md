@@ -1,7 +1,3 @@
-Here’s a draft for your **`CONTRIBUTING.md`** file:  
-
----
-
 # Contributing to the 10Alytics Data Science Collaboration Platform  
 
 Thank you for your interest in contributing to this platform! 🙌 Your contributions are vital to building a thriving community where students, facilitators, and collaborators can learn, share, and grow.  
@@ -94,8 +90,4 @@ If you’re unsure about anything, feel free to open an issue or join the GitHub
 ---
 
 ### Thank You for Contributing! 💖  
-Your efforts make this platform a valuable resource for the 10Alytics community and beyond. Together, we can create impactful learning experiences!  
-
----
-
-Does this cover everything you want, or should we customize further?
+Your efforts make this platform a valuable resource for the 10Alytics community and beyond. Together, we can create impactful learning experiences!
