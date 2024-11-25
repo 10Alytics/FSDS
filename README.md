@@ -1,7 +1,3 @@
-Here’s a draft for your **`README.md`** file:
-
----
-
 # 10Alytics Data Science Collaboration Platform  
 
 Welcome to the **10Alytics Data Science Collaboration Platform**! 🎉  
