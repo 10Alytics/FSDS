@@ -36,7 +36,7 @@ Examples of unacceptable behavior include:
 ## **Reporting Issues**  
 If you experience or witness behavior that violates this code of conduct, please report it:  
 1. **Via Email:** [datascience@10alytics.io](datascience@10alytics.io)  
-2. **Through GitHub Issues:** Create an issue marked as “Code of Conduct Violation” (can be private).  
+2. **Through GitHub Issues:** Create an issue marked as “Code of Conduct Violation” `(can be private)`.  
 
 Reports will be reviewed confidentially, and appropriate action will be taken to address the situation.  
 
