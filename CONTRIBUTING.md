@@ -1,6 +1,6 @@
 # Contributing to the 10Alytics Data Science Collaboration Platform  
 
-Thank you for your interest in contributing to this platform! 🙌 Your contributions are vital to building a thriving community where students, facilitators, and collaborators can learn, share, and grow.  
+Thank you for your interest in contributing to this platform! 🙌 Your contributions are vital to building a thriving community where participants, facilitators, and collaborators can learn, share, and grow.  
 
 Please take a moment to review these guidelines to ensure a smooth contribution process.  
 
